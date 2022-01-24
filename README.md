@@ -11,7 +11,7 @@ Rename it to “FPS Counter”.
 
 Click on Add Component.
 
-Type in “FPSCounter”.
+Type in “ShowFps”.
 
 Pick “New Script”.
 
@@ -48,6 +48,6 @@ Copy and paste the code from this repository
 
 Select “FPS Counter” game object
 
-Find FPSCounter script
+Find ShowFps script
 
 Now press Play to test it.
