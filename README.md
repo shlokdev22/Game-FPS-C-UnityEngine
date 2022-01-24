@@ -39,8 +39,11 @@ Now find Text component of “FPS Display” game object.
 
 Set its color to white.
 
+
 Create a new script named ShowFps
+
 Open it
+
 Copy and paste the code from this repository
 
 Select “FPS Counter” game object
